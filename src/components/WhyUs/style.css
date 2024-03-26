@@ -60,6 +60,7 @@ i ~ h3 {
 .list div{
 display: flex;
 flex-direction: row;
+align-items: center;
 justify-content: center;
 align-items: center;
 margin-top: 0px;
