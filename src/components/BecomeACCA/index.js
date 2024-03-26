@@ -70,7 +70,7 @@ const BecomeACCA = () => {
   return (
     <div id='home' className="main-container">
       <div className="main-content">
-        <h1 className="display-4">Become ACCA In 18 Months</h1>
+        <h1>Become ACCA In 18 Months</h1>
         <p className="lead">
           Learn everything you need and pass the ACCA exam within 18 months.
         </p>
