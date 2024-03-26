@@ -1,5 +1,5 @@
 body .main-container .main-content .card-container ul li p {
-    margin-top: unset !important;
+    margin-top: 15px !important;
 }
 .main-container{
     display: flex;
