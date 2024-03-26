@@ -16,7 +16,6 @@ const App = () => {
       <Header/>
       <BecomeACCA />
       <WhyUs />
-      {/* <Eligibility /> */}
       <Learn />
       <Placement />
       <StartingPrep />
