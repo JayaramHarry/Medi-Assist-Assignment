@@ -1,3 +1,6 @@
+body .main-container .main-content .card-container ul li p {
+    margin-top: unset !important;
+}
 .main-container{
     display: flex;
     flex-direction: row;
