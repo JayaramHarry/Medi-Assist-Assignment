@@ -1,3 +1,6 @@
+body .why-us-container .why-us-cards bottom p {
+    margin-top: unset !important;
+}
 .why-us-container{
     display: flex;
     flex-direction: column;
