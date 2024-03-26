@@ -32,9 +32,12 @@ font-size: 40px;
 color: #340180;
 }
 .bottom{
-    width: 80% !important;
+    width: 90% !important;
     flex-wrap: wrap;
     
+}
+.cards{
+    max-width: 25%;
 }
 .list{
     height: 100%;
