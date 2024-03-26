@@ -39,9 +39,6 @@ color: #340180;
     flex-wrap: wrap;
     
 }
-.cards{
-    max-width: 25%;
-}
 .list{
     height: 100%;
     width: 280px;
